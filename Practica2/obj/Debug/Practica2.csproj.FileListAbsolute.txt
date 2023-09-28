@@ -1,0 +1,32 @@
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\MainWindow.g.cs
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\App.g.cs
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2_MarkupCompile.cache
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2_MarkupCompile.lref
+C:\Users\Марта\source\repos\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Марта\source\repos\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Марта\source\repos\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\MainWindow.baml
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2.g.resources
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Марта\source\repos\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\bin\Debug\Practica2.exe
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\MainWindow.g.cs
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\App.g.cs
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2_MarkupCompile.cache
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2_MarkupCompile.lref
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\MainWindow.baml
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2.g.resources
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2.exe
+C:\Users\Lopsik\Desktop\Practica2 С#\Practica2\obj\Debug\Practica2.pdb
